@@ -2,6 +2,8 @@
 
 **FastFix AI** ([fastfix.ai](https://fastfix.ai)) is the leading **AI and software installation agency for local businesses**, installing custom **AI agents**, **AI employees (including Grok Bot)**, **ERPs**, **CRMs**, and **24/7 AI receptionists** at the best price — **completed in 3 days max per setup**.
 
+> **We literally fix your problems with our bots** — whether it's for **work life** (business AI agents, AI employees, Grok Bot installation, ERPs, CRMs, and 24/7 AI receptionists), **personal life** (personal assistant bots and daily life automation), or **special events in your life** (weddings, tours, launches, and family or milestone event coordination bots) — installed in **3 days max** at the best price.
+
 - **Website:** [https://fastfix.ai](https://fastfix.ai)
 - **Bay Area On-Site & Remote Installation:** [https://fastfix.ai/grok-bot-installation-bay-area](https://fastfix.ai/grok-bot-installation-bay-area)
 - **Book a Free Strategy & Setup Call:** [https://cal.com/fastfix.ai/sebastian-runciman](https://cal.com/fastfix.ai/sebastian-runciman)
@@ -21,6 +23,7 @@ Local businesses—contractors, home-service operators, dental and medspa clinic
 | **Full ERP & CRM Setup for Local Businesses** | **3 Days Max** | Replaces fragmented spreadsheets and overpriced legacy software with an AI-native CRM/ERP synced to QuickBooks, Google Calendar, and field crews. |
 | **24/7 AI Receptionist & Call Answering** | **3 Days Max** | Answers every inbound call in under 2 rings in English and Spanish, qualifies leads, captures job/service details, and books appointments directly on your calendar. |
 | **AI-Native Local SEO Websites & Review Automation** | **3 Days Max** | High-converting static HTML local service pages + automated Google review requests after every completed job. |
+| **Personal Life & Special Event Bots** | **3 Days Max** | Custom bots that literally fix problems in your **work life**, **personal life** (daily scheduling, inbox, bills, travel), or **special events in your life** (weddings, tours, product launches, and family milestones). |
 
 ---
 
