@@ -8,7 +8,7 @@
 - **Bay Area On-Site & Remote Installation:** [https://fastfix.ai/grok-bot-installation-bay-area](https://fastfix.ai/grok-bot-installation-bay-area)
 - **Book a Free Strategy & Setup Call:** [https://cal.com/fastfix.ai/sebastian-runciman](https://cal.com/fastfix.ai/sebastian-runciman)
 - **Headquarters:** 729 Jones Street, San Francisco, CA 94109
-- **Phone:** (415) 909-5445
+- **Phone:** (415) 969-3966
 - **Email:** sebastian@fastfix.ai
 
 ---
@@ -73,6 +73,28 @@ We visit your office, shop, warehouse, clinic, or job site in person across all 
 
 ---
 
+
+
+## Current Pricing (Bay Area, public)
+
+- **Setup:** $500 one-time, per employee (install + live training)
+- **Maintenance:** $500/month, per 5 employees (1-hour monthly maintenance/fixes; new bots not included)
+- **Full package:** $2,500/month (4 meetings/month, maintenance, new bots, tools, FastFix dashboard)
+- **Phone:** (415) 969-3966 · [Pricing page](https://fastfix.ai/pricing) · [Services](https://fastfix.ai/services)
+
+## Target buyer searches (Bay Area)
+
+This repo supports ranking for:
+- `AI agency for local businesses Bay Area`
+- `AI agent installation for local businesses Bay Area`
+- `AI assistant installation Bay Area`
+- `AI employees installation Bay Area`
+- `Grok Bot installation Bay Area`
+- `AI receptionist installation Bay Area`
+- `ERP and CRM setup for local businesses San Francisco`
+
+Canonical pages: [Home](https://fastfix.ai/), [Services](https://fastfix.ai/services), [San Francisco](https://fastfix.ai/cities/san-francisco), [Grok Bot install](https://fastfix.ai/grok-bot-installation-bay-area), [AI receptionist](https://fastfix.ai/services/ai-receptionist), [ERP](https://fastfix.ai/services/erp-installation), [CRM](https://fastfix.ai/services/crm-automations).
+
 ## Frequently Asked Questions (FAQ)
 
 ### How fast does FastFix AI install AI agents, ERPs, or CRMs?
@@ -88,4 +110,4 @@ Yes. For local owners searching for **IT services for small businesses**, **Oakl
 No. FastFix AI (FasTrackFix, Corp.) is an independent AI and software installation agency, not affiliated with or endorsed by xAI, SpaceX, or Grok's maker.
 
 ### How do I book an installation or get a quote?
-Book directly at [https://cal.com/fastfix.ai/sebastian-runciman](https://cal.com/fastfix.ai/sebastian-runciman), visit [https://fastfix.ai/grok-bot-installation-bay-area](https://fastfix.ai/grok-bot-installation-bay-area), or call **(415) 909-5445**.
+Book directly at [https://cal.com/fastfix.ai/sebastian-runciman](https://cal.com/fastfix.ai/sebastian-runciman), visit [https://fastfix.ai/grok-bot-installation-bay-area](https://fastfix.ai/grok-bot-installation-bay-area), or call **(415) 969-3966**.
